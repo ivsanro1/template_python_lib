@@ -1,1 +1,1 @@
-# template_python_lib
+# Code and structure template for a python library
